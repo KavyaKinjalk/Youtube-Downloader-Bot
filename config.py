@@ -7,4 +7,4 @@ API_HASH = os.environ.get("API_HASH")
 youtube_next_fetch = 0  # time in minute
 
 
-EDIT_TIME = 0
+EDIT_TIME = 5
